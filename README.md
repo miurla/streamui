@@ -1,6 +1,8 @@
 # StreamUI Chat
 
-Streaming UI from AI in chat. A Transport implementation for [AI SDK](https://github.com/vercel/ai) that enables [json-render](https://github.com/nicholasgriffintn/json-render) UI streaming in `useChat`.
+> **⚠️ Deprecated:** This project is no longer maintained. Its functionality has been absorbed into [json-render](https://github.com/vercel-labs/json-render) v0.5+. Please use `@json-render/core` directly instead.
+
+Streaming UI from AI in chat. A Transport implementation for [AI SDK](https://github.com/vercel/ai) that enables [json-render](https://github.com/vercel-labs/json-render) UI streaming in `useChat`.
 
 ## Features
 
